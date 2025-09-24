@@ -6,7 +6,7 @@ namespace OrderService.DTOs
     public class CreateOrderRequest
     {
         public Guid UserId { get; set; }
-        public List<OrderItemRequest> Items { get; set; }
+        public List<OrderItemRequest> Items { get; set; } = new List<OrderItemRequest>();
     }
 
     public class OrderItemRequest

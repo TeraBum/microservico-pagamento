@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using OrderService.Data;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
