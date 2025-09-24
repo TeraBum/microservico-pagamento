@@ -52,7 +52,7 @@ Entidades principais:
   - Quantity: int
   - UnitPrice: decimal
 
-Diagrama de classes (simplificado):
+Diagrama de classes:
 
 <img width="311" height="347" alt="image" src="https://github.com/user-attachments/assets/d376d826-048f-46e7-a0a9-aa934505f72d" />
 
