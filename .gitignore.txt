@@ -1,0 +1,11 @@
+# Build
+bin/
+obj/
+
+# Config local
+appsettings.Development.json
+appsettings.Local.json
+
+# User secrets
+*.user
+*.swp
