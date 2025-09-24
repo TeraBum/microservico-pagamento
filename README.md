@@ -54,18 +54,7 @@ Entidades principais:
 
 Diagrama de classes (simplificado):
 
-Order
-├─ OrderId : Guid
-├─ UserId : Guid
-├─ TotalAmount : decimal
-├─ Status : string
-└─ Items : List<OrderItem>
-
-OrderItem
-├─ OrderItemId : Guid
-├─ ProductId : Guid
-├─ Quantity : int
-└─ UnitPrice : decimal
+<img width="311" height="347" alt="image" src="https://github.com/user-attachments/assets/d376d826-048f-46e7-a0a9-aa934505f72d" />
 
 ## Tecnologias Utilizadas
 
