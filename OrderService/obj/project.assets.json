@@ -3254,11 +3254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj",
+      "projectUniqueName": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento2\\microservico-pagamento\\OrderService\\OrderService.csproj",
       "projectName": "OrderService",
-      "projectPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj",
+      "projectPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento2\\microservico-pagamento\\OrderService\\OrderService.csproj",
       "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
-      "outputPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\obj\\",
+      "outputPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento2\\microservico-pagamento\\OrderService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
