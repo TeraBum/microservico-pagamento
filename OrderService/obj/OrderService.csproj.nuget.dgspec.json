@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj": {}
+    "/home/faculdade/Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos/microservico-pagamento/OrderService/OrderService.csproj": {}
   },
   "projects": {
-    "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj": {
+    "/home/faculdade/Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos/microservico-pagamento/OrderService/OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "/home/faculdade/Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos/microservico-pagamento/OrderService/OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\OrderService.csproj",
-        "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
-        "outputPath": "D:\\Faculdade\\Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos\\microservico-pagamento\\OrderService\\obj\\",
+        "projectPath": "/home/faculdade/Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos/microservico-pagamento/OrderService/OrderService.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/faculdade/Eixo 6 - Projeto Arquitetura de Sistemas Distribuidos/microservico-pagamento/OrderService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -82,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
